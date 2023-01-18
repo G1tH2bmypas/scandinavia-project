@@ -10,7 +10,7 @@
 
 body {
   margin: 0;
-  background: url("../../img/font9.jpg") 0 0/cover;
+  background: url("./../img/font9.jpg") 0 0/cover;
   font-family: "Droid Sans" , sans-serif;
   height: 100%; }
 
@@ -20,7 +20,7 @@ body {
   width: 80%;
   max-width: 1120px;
   border-radius: 15px;
-  background: url("../../img/head1.jpg") 30% 10%/cover;
+  background: url("./../img/head1.jpg") 30% 10%/cover;
   margin: 65px auto 20px auto;
   -webkit-box-shadow: 1px 1px 15px #fff;
   box-shadow: 1px 1px 15px #fff; }
